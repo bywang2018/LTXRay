@@ -1,7 +1,7 @@
 # LTXRay
 ## INTRODUCTION
 LTXRay consists of 18,718 images from 12 common classes, with $20 \sim 5,607$ instances per class labeled with bounding-box annotations. Notably, the imbalance factor of entire dataset reaches 280.35. To the best of our knowledge, LTXRay is the first benchmark dedicated to the task of long-tailed prohibited item detection.
-<div align=center><img src="distribution_ours.png" width="600" height="130" /></div>
+<div align=center><img src="distribution_ours.png" width="300" height="400" /></div>
 
 ## DOWNLOAD
 百度网盘：https://pan.baidu.com/s/1wkX2RIYQU6bVMOt3106TFg?pwd=74if 提取码: 74if
