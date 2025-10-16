@@ -7,8 +7,13 @@ LTXRay consists of 18,718 images from 12 common classes, with $20 \sim 5,607$ in
 百度网盘：https://pan.baidu.com/s/1wkX2RIYQU6bVMOt3106TFg?pwd=74if 提取码: 74if
 
 ## Citation
-If you use this benchmark in your research, please cite this project.
-
+If you use this benchmark in your research, please cite this project.<br />
+@ARTICLE{11202210,<br />
+  &emsp;&emsp;author={Wang, Boying and Zhang, Fuwei and Fang, Xiangfei and Ji, Ruyi and Tao, Renshuai and Cao, Yaming and Liu, Bo and Liu, Jing},<br />
+  &emsp;&emsp;journal={IEEE Transactions on Information Forensics and Security}, <br />
+  &emsp;&emsp;title={Exploring X-ray Prohibited Item Detection From Long-Tailed Learning Perspective}, <br />
+  &emsp;&emsp;year={2025},<br />
+  &emsp;&emsp;doi={10.1109/TIFS.2025.3620642}}
 ## LICENSE
 The images and the corresponding annotations in PIDray Dataset can be used ONLY for academic purposes, NOT for commercial purposes.
 
