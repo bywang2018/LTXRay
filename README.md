@@ -15,6 +15,6 @@ If you use this benchmark in your research, please cite this project.<br />
   &emsp;&emsp;year={2025},<br />
   &emsp;&emsp;doi={10.1109/TIFS.2025.3620642}}
 ## LICENSE
-The images and the corresponding annotations in PIDray Dataset can be used ONLY for academic purposes, NOT for commercial purposes.
+The images and the corresponding annotations in LTXRay Dataset can be used ONLY for academic purposes, NOT for commercial purposes.
 
 Copyright © Shanxi Key Laboratory of Machine Vision and Virtual Reality, North University of China. All rights reserved.
